@@ -38,7 +38,7 @@ Due to internet connectivity issues with Hugging Face's dataset downloads, here'
 1. Manual Download Instructions:
 Visit Luke Barousse's dataset on Hugging Face
 Download the CSV file manually
-Save it to your local project directory (e.g., in a data folder).This solution is more straightforward and doesn't require a stable connection to Hugging Face's servers.
+Save it to your local project directory (e.g., in a data folder).
 
 2. Code Modification: Instead of using load_dataset, use this simpler approach and continue with the same data cleanup:
 
